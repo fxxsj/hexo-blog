@@ -1,0 +1,3 @@
+[submodule "themes/argon"]
+	path = themes/argon
+	url = git@github.com:fxxsj/hexo-theme-argon.git
