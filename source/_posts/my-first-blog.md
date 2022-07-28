@@ -1,7 +1,8 @@
 ---
 title: Hexo博客多端同步问题
 date: 2022-07-28 08:41:36
-tags: 学习
+tags: hexo
+categories: 学习
 ---
 ## 博客源文件同步
 
